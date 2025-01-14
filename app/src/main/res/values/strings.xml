@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RenatoCouto_AtivdadeEAD</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Atvidade EAD</string>
+    <string name="nav_header_subtitle">renato.couto@estudante.ifto.edu.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_sair">Sair</string>
+    <string name="menu_home">Principal</string>
+    <string name="menu_cadastrar">Nova Disciplina</string>
+    <string name="menu_list_disciplinas">Lista Disciplinas</string>
+    <string name="nome_da_disciplina">Nome da Disciplina</string>
+    <string name="periodo">Período</string>
+    <string name="nota_obtida">Nota Obtida</string>
+    <string name="salvar">Salvar</string>
+    <string name="titulo_lista">Lista de disciplinas</string>
+</resources>
