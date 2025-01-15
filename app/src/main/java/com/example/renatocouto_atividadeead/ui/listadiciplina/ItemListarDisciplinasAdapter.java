@@ -14,11 +14,11 @@ import com.example.renatocouto_atividadeead.model.entity.Disciplina;
 
 import java.util.List;
 
-public class ItemDisciplinasAdapter extends RecyclerView.Adapter<ItemDisciplinasAdapter.ViewHolder> {
+public class ItemListarDisciplinasAdapter extends RecyclerView.Adapter<ItemListarDisciplinasAdapter.ViewHolder> {
     private final OnItemClickListener onItemClickListener;
     private final List<Disciplina> disciplinas;
 
-    public ItemDisciplinasAdapter(List<Disciplina> disciplinas, OnItemClickListener onItemClickListener) {
+    public ItemListarDisciplinasAdapter(List<Disciplina> disciplinas, OnItemClickListener onItemClickListener) {
         this.onItemClickListener = onItemClickListener;
         this.disciplinas = disciplinas;
     }
